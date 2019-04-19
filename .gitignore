@@ -1,0 +1,15 @@
+# IDE - VSCode
+.vscode/
+
+# Dependency directories
+backend/node_modules/
+backend/postgreData/*
+
+# dotenv environment variables file
+backend/.env
+
+# System Files
+.DS_Store
+Thumbs.db
+
+!*.gitkeep
