@@ -2,11 +2,11 @@
 .vscode/
 
 # Dependency directories
-backend/node_modules/
+*/node_modules/
 backend/postgreData/*
 
 # dotenv environment variables file
-backend/.env
+*.env
 
 # System Files
 .DS_Store
